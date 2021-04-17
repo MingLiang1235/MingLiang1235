@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MingLiang1235
-- 👀 我对脚本语言感兴趣
+- 👀 I'm interesting in Script, ie. Python.
 - 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on tools development
 - 📫 How to reach me Unicoder@sohu.com, Unicoder5191@163.com
